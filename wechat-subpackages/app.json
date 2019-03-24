@@ -5,13 +5,13 @@
   ],
   "subpackages": [
     {
-      "root": "pages/index/pages",
+      "root": "pages/subp_index/pages",
       "pages": [
         "logs/logs"
       ]
     },
     {
-      "root": "pages/usercenter/pages",
+      "root": "pages/subp_usercenter/pages",
       "pages": [
         "my/my"
       ]

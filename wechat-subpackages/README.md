@@ -32,6 +32,9 @@
 |             |-- my.js
 |             |-- my.json
 |-- utils (库)
+|   |-- config.js (配置文件)
+|   |-- util.js (工具函数)
+|   |-- request.js (请求数据)
 |-- app.js
 |-- app.json
 |-- app.wxss
