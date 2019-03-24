@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/package/index/index",
+    "pages/package/usercenter/usercenter"
+  ],
+  "subpackages": [
+    {
+      "root": "pages/index/pages",
+      "pages": [
+        "logs/logs"
+      ]
+    },
+    {
+      "root": "pages/usercenter/pages",
+      "pages": [
+        "my/my"
+      ]
+    }
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
